@@ -12,15 +12,18 @@
 4. Browse to and select your flat file.
 5. Follow the import wizard to load the data into Excel.
 
-![imported file]()
+![imported file](images/import.png)
    
 ### Explore and Clean Data using Power Query Editor:
 
-1. Explore the imported data to ensure it looks correct.
-2. Remove any unnecessary rows or columns.
-3. Ensure data types are appropriate for each column.
+1. Go to the "Data" tab.
+2. In the "Get Data & Transform" section, click "From Table" to launch Power Query Editor.
+3. Explore the imported data to ensure it looks correct.
+4. Remove any unnecessary rows or columns.
+5. Ensure data types are appropriate for each column.
 
-![power query]()
+![power query](images/power_query.png)
+![Transformed file](images/transformed.png)
    
 ### Create SQL Schema:
 I used the **Microsoft SQL Server**.
