@@ -28,7 +28,7 @@
 ### Load the data into an SQL database:
 I used the **Microsoft SQL Server**.
 
-1. Open your SQL database management tool (e.g., MySQL Workbench, pgAdmin for PostgreSQL, SQL Server Management Studio for SQL Server). 
+1. Open your SQL database management tool (e.g MySQL Workbench, pgAdmin for PostgreSQL, SQL Server Management Studio for SQL Server). 
 2. Click on "New Query" and create your database.
 3. After creating and activating it, right click on your database name, click "Tasks", then "Import flat file".
 
