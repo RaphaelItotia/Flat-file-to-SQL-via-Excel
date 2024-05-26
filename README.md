@@ -1,7 +1,7 @@
 # Flat file to SQL via Excel
 
 ## Here are the steps to load a flat file (for my case it's Text file generated from ChatGPT) into SQL via Excel:
-#### Flat file generated from ChatGPT
+#### Flat file generated in ChatGPT
 ![Flat file]()
 
 ### Import the Flat File into Excel:
