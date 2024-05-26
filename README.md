@@ -34,4 +34,6 @@ I used the **Microsoft SQL Server**.
 
 ![SQL Outcome](images/SQL.png)
 
-This outline should help you get started with converting your flat file data to SQL using Excel. If you need more detailed instructions or assistance with any specific step, feel free to ask!
+
+
+These steps should help you get started with loading your flat file data into SQL using Excel. If you need assistance with any specific step, feel free to ask!
