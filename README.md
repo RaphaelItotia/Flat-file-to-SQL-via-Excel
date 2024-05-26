@@ -32,6 +32,6 @@ I used the **Microsoft SQL Server**.
 2. Click on "New Query" and create your database.
 3. After creating and activating it, right click on your database name, click "Tasks", then "Import flat file".
 
-
+![SQL Outcome](images/SQL.png)
 
 This outline should help you get started with converting your flat file data to SQL using Excel. If you need more detailed instructions or assistance with any specific step, feel free to ask!
